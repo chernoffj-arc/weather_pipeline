@@ -45,7 +45,7 @@ targets:
       catalog: hive_metastore
       schema: prod
     permissions:
-      - group_name: "administrators"
+      - group_name: "admins"
         level: CAN_MANAGE
       - group_name: "data-engineers"
         level: CAN_VIEW
