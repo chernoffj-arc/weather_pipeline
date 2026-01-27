@@ -45,7 +45,7 @@ targets:
       catalog: hive_metastore
       schema: prod
     permissions:
-      - group_name: "admins"
+      - user_name: "john.chernoff@arcurve.com"
         level: CAN_MANAGE
       - group_name: "users"
         level: CAN_VIEW
