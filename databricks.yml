@@ -47,5 +47,5 @@ targets:
     permissions:
       - group_name: "admins"
         level: CAN_MANAGE
-      - group_name: "data-engineers"
+      - group_name: "users"
         level: CAN_VIEW
